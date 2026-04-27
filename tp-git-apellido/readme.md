@@ -1,3 +1,5 @@
-echo "# Proyecto de Gestión de Sistemas" > README.md
-echo "Este es un proyecto inicial para el seguimiento de versiones." >> README.md
-echo "Desarrollado como parte de las prácticas de sistemas de información." >> README.md
+README.md
+
+"Este proyecto tiene como objetivo el seguimiento y control de versiones
+de sistemas de información, aplicando buenas prácticas de desarrollo"
+
